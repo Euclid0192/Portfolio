@@ -2,6 +2,7 @@ import React from 'react'
 import './Header.css'
 import CTA from './CTA'
 import me from '../../assets/me.jpg'
+import TypingIntro from './TypingIntro'
 
 import HeaderSocial from './HeaderSocial'
 
@@ -9,9 +10,7 @@ const Header = () => {
   return (
     <header>
       <div className='container header__container'>
-        <h5>Hi, I'm</h5>
-        <h2>Nam (Dylan) Nguyen</h2>
-        <h5 className='text-light'>Fullstack Developer</h5>
+        <TypingIntro />
         <CTA />
         <HeaderSocial />
 

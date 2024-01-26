@@ -1,41 +1,30 @@
 import React from 'react'
 import './Portfolio.css'
 import img from '../../assets/project.avif'
+import chatImg from '../../assets/chat-img.png'
+import sudokuImg from '../../assets/halloween-sudoku.png'
+import portfolioImg from '../../assets/portfolio-img.png'
 
 const DATA = [
   {
     id: 1,
-    image: img,
-    title: "Title",
-    github: "https://github.com",
-    demo: ''
+    image: sudokuImg,
+    title: "Halloween-Spartan-themed Sudoku",
+    github: "https://github.com/Euclid0192/Halloween-themed-Sudoku",
+    demo: "https://drive.google.com/file/d/1Usk8-ST2rSh8kcY8weXB_n_k-1N1tuzm/view?usp=drive_link"
   },
   {
     id: 2,
-    image: img,
-    title: "Title",
-    github: "https://github.com",
-    demo: ''
+    image: chatImg,
+    title: "ReTiMe - A Real-time Messaging App",
+    github: "https://github.com/Euclid0192/Spartahack-8-Project",
+    demo: 'https://drive.google.com/file/d/12onKpfCDpIxvy038rHxENHKePmk5u9tv/view?usp=sharing'
   },
   {
     id: 3,
-    image: img,
-    title: "Title",
-    github: "https://github.com",
-    demo: ''
-  },
-  {
-    id: 4,
-    image: img,
-    title: "Title",
-    github: "https://github.com",
-    demo: ''
-  },
-  {
-    id: 5,
-    image: img,
-    title: "Title",
-    github: "https://github.com",
+    image: portfolioImg,
+    title: "My portfolio",
+    github: "https://github.com/Euclid0192/Portfolio",
     demo: ''
   },
 ]
@@ -43,8 +32,7 @@ const DATA = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My recent works</h5>
-      <h2>Portfolio</h2>
+      <h2>My recent works</h2>
 
       <div className='container portfolio__container'>
         {

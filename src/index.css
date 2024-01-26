@@ -17,7 +17,7 @@
 :root {
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
+    --color-primary: #F2BE38;
     --color-primary-variant: #rgba(77, 181, 255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
@@ -45,10 +45,10 @@ body {
     background-image: url(../src/assets/background.svg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: linear-gradient(to right bottom,
+    background: linear-gradient(to right bottom,
      #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1,
-     #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff,
-     #46eefa, #5ffbf1);
+     #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff
+        );
 }
 
 /* ============ GENERAL STYLES ===================== */

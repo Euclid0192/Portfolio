@@ -8,7 +8,6 @@ import { FaProjectDiagram } from "react-icons/fa"
 const About = () => {
   return (
     <section id='about'>
-      <h5>Get to know</h5>
       <h2>About me</h2>
 
       <div className='container about__container'>
@@ -31,7 +30,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am a rising sophomore at Michigan State University majoring in Computer Science and minoring in Actuarial Science. 
+          <p>I am a rising junior at Michigan State University majoring in Computer Science and minoring in Actuarial Science. 
           I am really into and curious about Software Development and its potential impact it has on our real-world. 
           Currently, the technologies I am using include React Native, Redux, JavaScript and MongoDB. I am looking for an internship
           to broaden my knowledge of other technologies as well as gain some hands-on and real-life experience in this industry of 
