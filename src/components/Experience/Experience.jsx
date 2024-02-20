@@ -16,7 +16,7 @@ const Experience = () => {
               <GiAchievement className='experience__details-icon' size={20} />
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Intermediate</small> 
+                <small className='text-light'>Advanced</small> 
               </div>
             </article>
 
@@ -31,7 +31,7 @@ const Experience = () => {
             <article className='experience__details'>
               <GiAchievement className='experience__details-icon' size={20} />
               <div>
-                <h4>Javascript</h4>
+                <h4>TypeScript</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -47,16 +47,34 @@ const Experience = () => {
             <article className='experience__details'>
               <GiAchievement className='experience__details-icon' size={20} />
               <div>
+                <h4>Zustand</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>            
+
+            <article className='experience__details'>
+              <GiAchievement className='experience__details-icon' size={20} />
+              <div>
                 <h4>React Native</h4>
                 <small className='text-light'>Beginner</small>
               </div>
             </article>
+
           </div>
         </div>
         {/* Backend */}
         <div className='experience__backend'>
           <h3>Backend Development</h3>
           <div className='experience__content'>
+
+            <article className='experience__details'>
+              <GiAchievement className='experience__details-icon' size={20} />
+              <div>
+                <h4>C++</h4>
+                <small className='text-light'>Advanced</small>
+              </div>
+            </article>
+
             <article className='experience__details'>
               <GiAchievement className='experience__details-icon' size={20} />
               <div>
@@ -92,10 +110,11 @@ const Experience = () => {
             <article className='experience__details'>
               <GiAchievement className='experience__details-icon' size={20} />
               <div>
-                <h4>C++</h4>
-                <small className='text-light'>Beginner</small>
+                <h4>SQL/Database Systems</h4>
+                <small className='text-light'>Intermediate</small>                
               </div>
             </article>
+
           </div>
         </div>
       </div>

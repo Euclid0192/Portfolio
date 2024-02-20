@@ -45,10 +45,11 @@ const Contact = () => {
           <article className='contact__option'>
             <FaMessage className='contact__option-icon'/>
             <h4>Phone/iMessage</h4>
-            <h5>+(517)-980-4310</h5>
+            <h5>+1 (517)-980-4310</h5>
           </article>
         </div>
         {/* End of Contact options */}
+        
 
         <form ref={form} onSubmit={sendEmail}>
           <input type='text' name='name' placeholder='Your full name' required />
