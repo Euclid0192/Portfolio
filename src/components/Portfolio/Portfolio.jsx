@@ -1,32 +1,45 @@
 import React from 'react'
 import './Portfolio.css'
-import img from '../../assets/project.avif'
 import chatImg from '../../assets/chat-img.png'
 import sudokuImg from '../../assets/halloween-sudoku.png'
-import portfolioImg from '../../assets/portfolio-img.png'
+import flowImg from '../../assets/flow.png'
+import sudoku from '../../assets/HalloweenSudoku.zip'
+import portfolioGif from '../../assets/Portfolio.gif'
+import workflowGif from '../../assets/workflow.gif'
+import chatGif from '../../assets/chat.gif'
+import halloweenGif from '../../assets/pumpkin.gif'
 
 const DATA = [
   {
+    id: 0,
+    image: workflowGif,
+    title: "CourseFlow - Build your 4-year plan",
+    github: "https://github.com/Euclid0192/CourseFlowFE",
+    demo: "https://courseflowfe.onrender.com/"
+  },
+  {
     id: 1,
-    image: sudokuImg,
+    image: halloweenGif,
     title: "Halloween-Spartan-themed Sudoku",
     github: "https://github.com/Euclid0192/Halloween-themed-Sudoku",
-    demo: "https://drive.google.com/file/d/1Usk8-ST2rSh8kcY8weXB_n_k-1N1tuzm/view?usp=drive_link"
+    // demo: "https://drive.google.com/file/d/1Usk8-ST2rSh8kcY8weXB_n_k-1N1tuzm/view?usp=drive_link"
+    demo: sudoku
   },
   {
     id: 2,
-    image: chatImg,
+    image: portfolioGif,
+    title: "My portfolio",
+    github: "https://github.com/Euclid0192/Portfolio",
+    demo: 'http://bit.ly/portfolio-euclid'
+  },
+  {
+    id: 3,
+    image: chatGif,
     title: "ReTiMe - A Real-time Messaging App",
     github: "https://github.com/Euclid0192/Spartahack-8-Project",
     demo: 'https://drive.google.com/file/d/12onKpfCDpIxvy038rHxENHKePmk5u9tv/view?usp=sharing'
   },
-  {
-    id: 3,
-    image: portfolioImg,
-    title: "My portfolio",
-    github: "https://github.com/Euclid0192/Portfolio",
-    demo: ''
-  },
+
 ]
 
 const Portfolio = () => {
@@ -45,7 +58,7 @@ const Portfolio = () => {
                 <h3>{title}</h3>
                 <div className='portfolio__item-cta'>
                   <a href={github} className='btn btn-primary' target='_blank' rel="noopener noreferrer">Github</a>
-                  {/* <a href={demo} className='btn btn-primary' target='_blank' rel="noopener noreferrer">Demo</a>             */}
+                  <a href={demo} className='btn' target='_blank' rel="noopener noreferrer" download={id == 1}>Demo</a>            
                 </div>
               </article>              
             )

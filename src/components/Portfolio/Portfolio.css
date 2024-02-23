@@ -35,6 +35,10 @@
     justify-content: center;
 }
 
+h3 {
+    text-align: center;
+}
+
 /* ============== MEDIA QUERIES (MEDIUM DEVICES) Tablets...================= */
 @media screen and (max-width: 1024px) {
     .portfolio__container {

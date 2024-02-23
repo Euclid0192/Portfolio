@@ -30,13 +30,13 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am a rising junior at Michigan State University majoring in Computer Science and minoring in Actuarial Science. 
+          <p>👋 I am a rising junior at Michigan State University majoring in Computer Science and minoring in Actuarial Science. 
           I am really into and curious about Software Development and its potential impact it has on our real-world. 
-          Currently, the technologies I am using include React Native, Redux, JavaScript and MongoDB. I am looking for an internship
-          to broaden my knowledge of other technologies as well as gain some hands-on and real-life experience in this industry of 
-          Software Development!
-
-          Besides tech, I really enjoy playing the piano and doing a wide variety of sports from soccer to ping pong! Feel free to reach out!
+          Currently, the technologies I am using include the MERN stack with TypeScript, combining with Zustand for state management.
+          <br/>
+          Besides tech, I am really into One Piece 🏴‍☠️. Though I just started 3 months ago, I have watched nearly thousand episodes that have
+          been realeased. If you are a big fan, reach out and we can spend hours discussing about it.
+          Also, in my freetime, I enjoy playing the piano 🎹 and doing sports, especially soccer⚽ and ping pong🏓 ! Feel free to reach out!😁 
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's talk!</a>

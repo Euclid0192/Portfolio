@@ -3,7 +3,6 @@ import './Header.css'
 import CTA from './CTA'
 import me from '../../assets/me.jpg'
 import TypingIntro from './TypingIntro'
-
 import HeaderSocial from './HeaderSocial'
 
 const Header = () => {
