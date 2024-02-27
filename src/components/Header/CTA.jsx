@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../../assets/Resume.pdf'
+import resume from '../../assets/Resume.docx'
 
 /// Call-to-action Buttons: buttons that make immediate responses
 const CTA = () => {

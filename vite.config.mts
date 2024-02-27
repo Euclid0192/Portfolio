@@ -12,5 +12,5 @@ export default defineConfig({
         // this sets a default port to 3000  
         port: 3000, 
     },
-    assetsInclude: ["**/*.zip"]
+    assetsInclude: ["**/*.zip", "**/*.docx"]
 })
