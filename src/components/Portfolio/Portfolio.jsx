@@ -36,7 +36,7 @@ const DATA = [
     id: 3,
     image: chatGif,
     title: "ReTiMe - A Real-time Messaging App",
-    github: "https://github.com/Euclid0192/Spartahack-8-Project",
+    github: "https://github.com/Euclid0192/ReTiMe",
     demo: 'https://drive.google.com/file/d/12onKpfCDpIxvy038rHxENHKePmk5u9tv/view?usp=sharing'
   },
 
