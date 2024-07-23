@@ -20,7 +20,7 @@ const About = () => {
             <article className='about__card'>
               <MdOutlineWorkHistory size={30} className='about__icon' />
               <h5>Experience</h5>
-              <small>0 year working experience!</small>
+              <small>1 year working experience!</small>
             </article>
 
             <article className='about__card'>
@@ -30,13 +30,18 @@ const About = () => {
             </article>
           </div>
 
-          <p>👋 I am a rising junior at Michigan State University majoring in Computer Science and minoring in Actuarial Science. 
-          I am really into and curious about Software Development and its potential impact it has on our real-world. 
-          Currently, the technologies I am using include the MERN stack with TypeScript, combining with Zustand for state management.
+          <p className='intro'>
+          👋 Hello everyone, I'm Nam Nguyen 👋
           <br/>
-          Besides tech, I am really into One Piece 🏴‍☠️. Though I just started 3 months ago, I have watched nearly thousand episodes that have
-          been realeased. If you are a big fan, reach out and we can spend hours discussing about it.
-          Also, in my freetime, I enjoy playing the piano 🎹 and doing sports, especially soccer⚽ and ping pong🏓 ! Feel free to reach out!😁 
+          🎓 Passionate Computer Science junior at Michigan State University with a strong desire to learn more about Software Engineering and apply skills and knowledge to tackle real-world issues.
+          <br/>          
+          🧑‍💻 Tech I have used: JavaScript, Node.js, Express.js, NestJS, Python, C++, React, React Native, Chakra UI, MongoDB, SQLite, PostgreSQL.
+          <br/>          
+          🎈 Besides coding, I really enjoy sports, especially soccer ⚽ and ping pong 🏓, and the piano 🎹.
+          <br/>          
+          🔎 Currently seeking for Summer Internships in Software Engineering.
+          <br/>
+          🤝 Feel free to reach out for a coffee chat or just chit-chatting.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's talk!</a>
