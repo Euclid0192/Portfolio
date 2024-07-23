@@ -8,17 +8,25 @@ import portfolioGif from '../../assets/Portfolio.gif'
 import workflowGif from '../../assets/workflow.gif'
 import chatGif from '../../assets/chat.gif'
 import halloweenGif from '../../assets/pumpkin.gif'
+import peaceGif from '../../assets/peace.gif'
 
 const DATA = [
   {
     id: 0,
+    image: peaceGif,
+    title: "PeacePod",
+    github: "https://github.com/jennydo/PeacePod-Frontend",
+    demo: "https://drive.google.com/file/d/1zzN4ZgptR-zTjlZto4gkZsuJ6JQQbjo9/view?usp=sharing"
+  },
+  {
+    id: 1,
     image: workflowGif,
     title: "CourseFlow - Build your 4-year plan",
     github: "https://github.com/Euclid0192/CourseFlowFE",
     demo: "https://courseflowfe.onrender.com/"
   },
   {
-    id: 1,
+    id: 2,
     image: halloweenGif,
     title: "Halloween-Spartan-themed Sudoku",
     github: "https://github.com/Euclid0192/Halloween-themed-Sudoku",
@@ -26,14 +34,14 @@ const DATA = [
     demo: sudoku
   },
   {
-    id: 2,
+    id: 3,
     image: portfolioGif,
     title: "My portfolio",
     github: "https://github.com/Euclid0192/Portfolio",
     demo: 'http://bit.ly/portfolio-euclid'
   },
   {
-    id: 3,
+    id: 4,
     image: chatGif,
     title: "ReTiMe - A Real-time Messaging App",
     github: "https://github.com/Euclid0192/ReTiMe",

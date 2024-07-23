@@ -8,7 +8,7 @@ const HeaderSocial = () => {
   return (
     <div className='header__socials'>
         {/* target="_blank": open link in new tab */}
-        <a href='https://www.linkedin.com/in/nam-nguyen-95452a252/' target='_blank' rel='noopener noreferrer'>
+        <a href='https://www.linkedin.com/in/namnguyen0192/' target='_blank' rel='noopener noreferrer'>
             <BsLinkedin size={30}/>
         </a>
         <a href='https://github.com/Euclid0192' target='_blank' rel='noopener noreferrer'>
