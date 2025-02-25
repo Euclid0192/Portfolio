@@ -1,5 +1,5 @@
-import React from 'react'
-import { TypeAnimation } from 'react-type-animation'
+import React from "react";
+import { TypeAnimation } from "react-type-animation";
 
 const TypingIntro = () => {
   return (
@@ -14,14 +14,19 @@ const TypingIntro = () => {
         "Nice to meet you all!",
         100,
         "Let's contact!",
-        500
+        500,
       ]}
       wrapper="span"
       speed={50}
-      style={{ fontSize: '2em', display: 'inline-block' }}
+      style={{
+        fontSize: "2em",
+        display: "inline-block",
+        color: "#2196F3",
+        textShadow: "2px 2px 4px rgba(0, 0, 0, 0.5)",
+      }}
       repeat={Infinity}
     />
-  )
-}
+  );
+};
 
-export default TypingIntro
+export default TypingIntro;

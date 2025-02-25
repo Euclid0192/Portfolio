@@ -11,10 +11,6 @@ const About = () => {
       <h2>About me</h2>
 
       <div className='container about__container'>
-        <div className='about__me'>
-          <img src={me} alt='pic of me' className='about__me-img'/>
-        </div>
-
         <div className='about__content'>
           <div className='about__cards'>
             <article className='about__card'>
@@ -45,6 +41,10 @@ const About = () => {
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's talk!</a>
+        </div>
+
+        <div className='about__me'>
+          <img src={me} alt='pic of me' className='about__me-img'/>
         </div>
 
       </div>
