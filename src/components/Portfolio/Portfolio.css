@@ -13,8 +13,9 @@
 }
 
 .portfolio__item:hover {
-    background: transparent;
     border-color: var(--color-primary-variant);
+    background: linear-gradient(135deg, rgba(33, 150, 243, 0.1), rgba(255, 87, 51, 0.2));
+    backdrop-filter: blur(15px);
 }
 
 .portfolio__item-image {
