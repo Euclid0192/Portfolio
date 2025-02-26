@@ -49,9 +49,9 @@
 }
 
 .about__card:hover {
-    background: transparent;
+    background: linear-gradient(135deg, rgba(33, 150, 243, 0.1), rgba(255, 87, 51, 0.2));
+    backdrop-filter: blur(15px);
     border-color: var(--color-primary-variant);
-
 }
 
 .about__icon {
