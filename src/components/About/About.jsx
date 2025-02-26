@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import me from '../../assets/me-small.jpg'
+import me2 from '../../assets/me2.jpeg'
 
 import { MdOutlineWorkHistory } from "react-icons/md"
 import { FaProjectDiagram } from "react-icons/fa"
@@ -11,10 +11,6 @@ const About = () => {
       <h2>About me</h2>
 
       <div className='container about__container'>
-        <div className='about__me'>
-          <img src={me} alt='pic of me' className='about__me-img'/>
-        </div>
-
         <div className='about__content'>
           <div className='about__cards'>
             <article className='about__card'>
@@ -45,6 +41,10 @@ const About = () => {
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's talk!</a>
+        </div>
+
+        <div className='about__me'>
+          <img src={me2} alt='pic of me' className='about__me-img'/>
         </div>
 
       </div>
