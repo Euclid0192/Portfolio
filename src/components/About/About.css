@@ -21,7 +21,8 @@
 
 .about__me-img {
     width: 100%;
-    object-fit: contain;
+    height: 100%;
+    object-fit: cover;
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
