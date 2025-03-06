@@ -27,17 +27,17 @@ const About = () => {
           </div>
 
           <p className='intro'>
-          👋 Hello everyone, I'm Nam Nguyen 👋
+          ✨Hello everyone, I'm Nam Nguyen. ✨
           <br/>
-          🎓 Passionate Computer Science junior at Michigan State University with a strong desire to learn more about Software Engineering and apply skills and knowledge to tackle real-world issues.
+          🎓Passionate Computer Science junior from Michigan State University with a strong desire to dive deeper into Software Engineering and apply my skills to tackle real-world problems.
           <br/>          
-          🧑‍💻 Tech I have used: JavaScript, Node.js, Express.js, NestJS, Python, C++, React, React Native, Chakra UI, MongoDB, SQLite, PostgreSQL.
+          💻Tech I've used: JavaScript, Node.js, Express.js, NestJS, Golang, Python, C++, React, React Native, Chakra UI, MongoDB, PostgreSQL.
           <br/>          
-          🎈 Besides coding, I really enjoy sports, especially soccer ⚽ and ping pong 🏓, and the piano 🎹.
+          ⭐Besides coding, I really enjoy sports, especially soccer ⚽ and ping pong 🏓, and the piano 🎹.
           <br/>          
-          🔎 Currently seeking for Summer Internships in Software Engineering.
+          🔍Currently seeking for Summer Internships in Software Engineering.
           <br/>
-          🤝 Feel free to reach out for a coffee chat or just chit-chatting.
+          💫Feel free to reach out for a coffee chat or just chit-chatting.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's talk!</a>
