@@ -15,14 +15,14 @@ const About = () => {
           <div className='about__cards'>
             <article className='about__card'>
               <MdOutlineWorkHistory size={30} className='about__icon' />
-              <h5>Experience</h5>
-              <small>1 year working experience!</small>
+              <h5>Experiences</h5>
+              <small>1 year working experience</small>
             </article>
 
             <article className='about__card'>
               <FaProjectDiagram size={30} className='about__icon' />
               <h5>Projects</h5>
-              <small>Personal and School Courses!</small>
+              <small>Personal and School Courses</small>
             </article>
           </div>
 

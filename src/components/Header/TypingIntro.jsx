@@ -5,16 +5,16 @@ const TypingIntro = () => {
   return (
     <TypeAnimation
       sequence={[
-        "Hi, I am Nam Nguyen",
-        1000,
-        "I am a rising junior from Michigan State University",
-        1000,
+        "Hey, I'm Nam Nguyen",
+        2000,
+        "CS Junior from Michigan State University",
+        2000,
         "Fullstack Developer",
-        1000,
-        "Nice to meet you all!",
-        100,
-        "Let's contact!",
-        1000,
+        2000,
+        "Nice to meet y'all!",
+        2000,
+        "Let's link up",
+        2000,
       ]}
       wrapper="span"
       speed={50}
