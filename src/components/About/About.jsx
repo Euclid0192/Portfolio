@@ -33,14 +33,14 @@ const About = () => {
           <br/>          
           💻Tech I've used: JavaScript, Node.js, Express.js, NestJS, Golang, Python, C++, React, React Native, Chakra UI, MongoDB, PostgreSQL.
           <br/>          
-          ⭐Besides coding, I really enjoy sports, especially soccer ⚽ and ping pong 🏓, and the piano 🎹.
+          ⭐Besides coding, I love playing sports, especially soccer ⚽ and ping pong 🏓, and the piano 🎹.
           <br/>          
           🔍Currently seeking for Summer Internships in Software Engineering.
           <br/>
-          💫Feel free to reach out for a coffee chat or just chit-chatting.
+          💫Feel free to reach out for a coffee chat, or just chit-chatting! 😁
           </p>
 
-          <a href='#contact' className='btn btn-primary'>Let's talk!</a>
+          <a href='#contact' className='btn btn-primary'>Let's talk</a>
         </div>
 
         <div className='about__me'>

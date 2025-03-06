@@ -5,7 +5,7 @@ import { GiAchievement } from "react-icons/gi"
 const Experience = () => {
   return (
     <section id='experience'>
-      <h2>What skills I have</h2>
+      <h2>My specialties</h2>
       {/* Container with two blocks: Frontend and Backend ssName='container experience__container'>*/}
       <div className='container experience__container'>
         {/* Frontend */}
