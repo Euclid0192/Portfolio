@@ -39,8 +39,6 @@ const About = () => {
           <br/>
           💫Feel free to reach out for a coffee chat, or just chit-chatting! 😁
           </p>
-
-          <a href='#contact' className='btn btn-primary'>Let's talk</a>
         </div>
 
         <div className='about__me'>
