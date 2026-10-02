@@ -1,0 +1,432 @@
+[
+  {
+    "name": "JavaScript",
+    "asset": "javascript.svg",
+    "source": "https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg",
+    "symbol": false
+  },
+  {
+    "name": "C/C++",
+    "asset": "c.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_C_Programming_Language_logo.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg",
+    "symbol": false
+  },
+  {
+    "name": "Golang",
+    "asset": "go.svg",
+    "source": "https://blog.golang.org/go-brand",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/go.svg",
+    "symbol": false
+  },
+  {
+    "name": "TypeScript",
+    "asset": "typescript.svg",
+    "source": "https://www.typescriptlang.org/branding",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg",
+    "symbol": false
+  },
+  {
+    "name": "Java",
+    "asset": "java.svg",
+    "source": "https://github.com/devicons/devicon/tree/master/icons/java",
+    "download": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+    "symbol": false
+  },
+  {
+    "name": "Python",
+    "asset": "python.svg",
+    "source": "https://www.python.org/community/logos/",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg",
+    "symbol": false
+  },
+  {
+    "name": "SQL",
+    "asset": "sql.svg",
+    "source": "https://lucide.dev/icons/database",
+    "download": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/database.svg",
+    "symbol": true
+  },
+  {
+    "name": "C/C++",
+    "asset": "cplusplus.svg",
+    "source": "https://github.com/isocpp/logos/tree/64ef037049f87ac74875dbe72695e59118b52186",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg",
+    "symbol": false
+  },
+  {
+    "name": "Ruby",
+    "asset": "ruby.svg",
+    "source": "https://www.ruby-lang.org/en/about/logo/",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ruby.svg",
+    "symbol": false
+  },
+  {
+    "name": "R",
+    "asset": "r.svg",
+    "source": "https://www.r-project.org/logo/",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg",
+    "symbol": false
+  },
+  {
+    "name": "Assembly",
+    "asset": "assembly.svg",
+    "source": "https://lucide.dev/icons/cpu",
+    "download": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg",
+    "symbol": true
+  },
+  {
+    "name": "HTML/CSS",
+    "asset": "html5.svg",
+    "source": "https://www.w3.org/html/logo/",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg",
+    "symbol": false
+  },
+  {
+    "name": "Node.js",
+    "asset": "nodedotjs.svg",
+    "source": "https://nodejs.org/en/about/branding",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg",
+    "symbol": false
+  },
+  {
+    "name": "Express.js",
+    "asset": "express.svg",
+    "source": "https://github.com/openjs-foundation/artwork/blob/3816245ebbf4707bdafde748350ac8476b6b5b62/projects/express/express-icon-black.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg",
+    "symbol": false
+  },
+  {
+    "name": "Next.js",
+    "asset": "nextdotjs.svg",
+    "source": "https://vercel.com/design/brands#next-js",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg",
+    "symbol": false
+  },
+  {
+    "name": "React",
+    "asset": "react.svg",
+    "source": "https://github.com/facebook/create-react-app/blob/282c03f9525fdf8061ffa1ec50dce89296d916bd/test/fixtures/relative-paths/src/logo.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg",
+    "symbol": false
+  },
+  {
+    "name": "HTML/CSS",
+    "asset": "css.svg",
+    "source": "https://github.com/CSS-Next/logo.css/blob/bacc20878227204b283c68a6b935f8279e06b0cd/css.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css.svg",
+    "symbol": false
+  },
+  {
+    "name": "Tailwind CSS",
+    "asset": "tailwindcss.svg",
+    "source": "https://tailwindcss.com/brand",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg",
+    "symbol": false
+  },
+  {
+    "name": "Angular",
+    "asset": "angular.svg",
+    "source": "https://angular.dev/press-kit",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/angular.svg",
+    "symbol": false
+  },
+  {
+    "name": "shadcn",
+    "asset": "shadcnui.svg",
+    "source": "https://ui.shadcn.com",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shadcnui.svg",
+    "symbol": false
+  },
+  {
+    "name": "AngularJS",
+    "asset": "angularjs.svg",
+    "source": "https://github.com/devicons/devicon/tree/master/icons/angularjs",
+    "download": "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg",
+    "symbol": false
+  },
+  {
+    "name": "Bootstrap",
+    "asset": "bootstrap.svg",
+    "source": "https://getbootstrap.com/docs/5.3/about/brand",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg",
+    "symbol": false
+  },
+  {
+    "name": "NestJS",
+    "asset": "nestjs.svg",
+    "source": "https://nestjs.com",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg",
+    "symbol": false
+  },
+  {
+    "name": "FastAPI",
+    "asset": "fastapi.svg",
+    "source": "https://github.com/tiangolo/fastapi/blob/ffb4f77a11f83132b521ba0aac6c95792c19e797/docs/en/docs/img/icon-white.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg",
+    "symbol": false
+  },
+  {
+    "name": "Ruby on Rails",
+    "asset": "rubyonrails.svg",
+    "source": "https://github.com/simple-icons/simple-icons/issues/9619#issuecomment-1735150580",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rubyonrails.svg",
+    "symbol": false
+  },
+  {
+    "name": "Java Quarkus",
+    "asset": "quarkus.svg",
+    "source": "https://design.jboss.org/quarkus",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quarkus.svg",
+    "symbol": false
+  },
+  {
+    "name": "Magic UI",
+    "asset": "magicui.svg",
+    "source": "https://github.com/magicuidesign/magicui",
+    "download": "https://raw.githubusercontent.com/magicuidesign/magicui/main/apps/www/app/icon.svg",
+    "symbol": false
+  },
+  {
+    "name": "Mocha",
+    "asset": "mocha.svg",
+    "source": "https://mochajs.org",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mocha.svg",
+    "symbol": false
+  },
+  {
+    "name": "Supertest",
+    "asset": "supertest.svg",
+    "source": "https://lucide.dev/icons/badge-check",
+    "download": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/badge-check.svg",
+    "symbol": true
+  },
+  {
+    "name": "Playwright",
+    "asset": "playwright.svg",
+    "source": "https://github.com/devicons/devicon/tree/master/icons/playwright",
+    "download": "https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg",
+    "symbol": false
+  },
+  {
+    "name": "Codecov",
+    "asset": "codecov.svg",
+    "source": "https://codecov.io",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codecov.svg",
+    "symbol": false
+  },
+  {
+    "name": "Claude Code",
+    "asset": "claudecode.svg",
+    "source": "https://code.claude.com",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claudecode.svg",
+    "symbol": false
+  },
+  {
+    "name": "Chai",
+    "asset": "chai.svg",
+    "source": "https://github.com/simple-icons/simple-icons/issues/4983#issuecomment-796736373",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chai.svg",
+    "symbol": false
+  },
+  {
+    "name": "BullMQ",
+    "asset": "bullmq.png",
+    "source": "https://bullmq.io/",
+    "download": "https://bullmq.io/images/bullmq-logo.png"
+  },
+  {
+    "name": "Cursor",
+    "asset": "cursor.svg",
+    "source": "https://cursor.com/brand",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg",
+    "symbol": false
+  },
+  {
+    "name": "Docker",
+    "asset": "docker.svg",
+    "source": "https://www.docker.com/company/newsroom/media-resources",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg",
+    "symbol": false
+  },
+  {
+    "name": "Resque",
+    "asset": "resque.png",
+    "source": "https://github.com/resque",
+    "download": "https://avatars.githubusercontent.com/u/3876747?v=4"
+  },
+  {
+    "name": "GitHub Actions",
+    "asset": "githubactions.svg",
+    "source": "https://github.com/features/actions",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg",
+    "symbol": false
+  },
+  {
+    "name": "GitHub",
+    "asset": "github.svg",
+    "source": "https://github.com/logos",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg",
+    "symbol": false
+  },
+  {
+    "name": "Jira",
+    "asset": "jira.svg",
+    "source": "https://atlassian.design/resources/logo-library",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg",
+    "symbol": false
+  },
+  {
+    "name": "Figma",
+    "asset": "figma.svg",
+    "source": "https://www.figma.com/using-the-figma-brand/",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg",
+    "symbol": false
+  },
+  {
+    "name": "Sentry",
+    "asset": "sentry.svg",
+    "source": "https://sentry.io/branding/",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sentry.svg",
+    "symbol": false
+  },
+  {
+    "name": "Swagger",
+    "asset": "swagger.svg",
+    "source": "https://swagger.io",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg",
+    "symbol": false
+  },
+  {
+    "name": "Storybook",
+    "asset": "storybook.svg",
+    "source": "https://github.com/storybookjs/brand/tree/6f4d67f65f8275c53c310a73a8da6c6e96c8488c",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/storybook.svg",
+    "symbol": false
+  },
+  {
+    "name": "Concourse",
+    "asset": "concourse.svg",
+    "source": "https://concourse-ci.org",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/concourse.svg",
+    "symbol": false
+  },
+  {
+    "name": "MySQL",
+    "asset": "mysql.svg",
+    "source": "https://www.mysql.com/about/legal/logos.html",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg",
+    "symbol": false
+  },
+  {
+    "name": "Postman",
+    "asset": "postman.svg",
+    "source": "https://www.getpostman.com/resources/media-assets/",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg",
+    "symbol": false
+  },
+  {
+    "name": "ESLint",
+    "asset": "eslint.svg",
+    "source": "https://eslint.org",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eslint.svg",
+    "symbol": false
+  },
+  {
+    "name": "MongoDB",
+    "asset": "mongodb.svg",
+    "source": "https://www.mongodb.com/pressroom",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg",
+    "symbol": false
+  },
+  {
+    "name": "PostgreSQL",
+    "asset": "postgresql.svg",
+    "source": "https://wiki.postgresql.org/wiki/Logo",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg",
+    "symbol": false
+  },
+  {
+    "name": "SQLite",
+    "asset": "sqlite.svg",
+    "source": "https://github.com/sqlite/sqlite/blob/43e862723ec680542ca6f608f9963c0993dd7324/art/sqlite370.eps",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg",
+    "symbol": false
+  },
+  {
+    "name": "Fly.io",
+    "asset": "flydotio.svg",
+    "source": "https://fly.io/docs/about/brand",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flydotio.svg",
+    "symbol": false
+  },
+  {
+    "name": "LangChain",
+    "asset": "langchain.svg",
+    "source": "https://www.langchain.com/langchain",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg",
+    "symbol": false
+  },
+  {
+    "name": "Convex",
+    "asset": "convex.svg",
+    "source": "https://www.convex.dev/brand",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/convex.svg",
+    "symbol": false
+  },
+  {
+    "name": "AWS S3",
+    "asset": "amazons3.svg",
+    "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/12.4.0/icons/amazons3.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/12.4.0/icons/amazons3.svg",
+    "symbol": false
+  },
+  {
+    "name": "Firebase",
+    "asset": "firebase.svg",
+    "source": "https://firebase.google.com/brand-guidelines",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg",
+    "symbol": false
+  },
+  {
+    "name": "LangGraph",
+    "asset": "langgraph.svg",
+    "source": "https://www.langchain.com/langgraph",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg",
+    "symbol": false
+  },
+  {
+    "name": "OpenAI API",
+    "asset": "openai.svg",
+    "source": "https://github.com/lobehub/lobe-icons",
+    "download": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg",
+    "symbol": false
+  },
+  {
+    "name": "Azure Document Intelligence",
+    "asset": "azure-document-intelligence.png",
+    "source": "https://marketplace.microsoft.com/en-us/product/Microsoft.CognitiveServicesFormRecognizer",
+    "download": "https://catalogartifact.azureedge.net/publicartifacts/Microsoft.CognitiveServicesFormRecognizer-1.0.131/Icons/Large.png"
+  },
+  {
+    "name": "CI/CD",
+    "asset": "cicd.svg",
+    "source": "https://lucide.dev/icons/workflow",
+    "download": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/workflow.svg",
+    "symbol": true
+  },
+  {
+    "name": "MCP",
+    "asset": "modelcontextprotocol.svg",
+    "source": "https://github.com/modelcontextprotocol/docs/blob/573dc60c2e7aab2605b29d0bf27194aa7b02e4fb/logo/light.svg",
+    "download": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/modelcontextprotocol.svg",
+    "symbol": false
+  },
+  {
+    "name": "Braze API",
+    "asset": "braze.ico",
+    "source": "https://www.braze.com/",
+    "download": "https://www.braze.com/favicon.ico"
+  }
+]

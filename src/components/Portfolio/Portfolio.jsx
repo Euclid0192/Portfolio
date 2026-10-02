@@ -1,82 +1,33 @@
 import React from 'react'
-import './Portfolio.css'
-import sudoku from '../../assets/HalloweenSudoku.zip'
-import portfolioGif from '../../assets/Portfolio.gif'
-import workflowGif from '../../assets/workflow.gif'
-import chatGif from '../../assets/chat.gif'
-import halloweenGif from '../../assets/pumpkin.gif'
-import peaceGif from '../../assets/peace.gif'
-import orderGif from '../../assets/order.gif'
+import { projects } from '../../data/projects'
+import treverseLogo from '../../assets/treverse.svg'
+import { HiStar } from 'react-icons/hi'
+import { buttonClasses, Page } from '../ui'
 
-const DATA = [
-  {
-    id: 0,
-    image: peaceGif,
-    title: "PeacePod",
-    github: "https://github.com/jennydo/PeacePod-Frontend",
-    demo: "https://drive.google.com/file/d/1zzN4ZgptR-zTjlZto4gkZsuJ6JQQbjo9/view?usp=sharing"
-  },
-  {
-    id: 1,
-    image: orderGif,
-    title: "Order-On-the-Go!",
-    github: "https://github.com/Euclid0192/golang-microservices",
-    demo: ''
-  },
-  {
-    id: 2,
-    image: workflowGif,
-    title: "CourseFlow - Build your 4-year plan",
-    github: "https://github.com/Euclid0192/CourseFlowFE",
-    demo: "https://courseflowfe.onrender.com/"
-  },
-  {
-    id: 3,
-    image: halloweenGif,
-    title: "Halloween-Spartan-themed Sudoku",
-    github: "https://github.com/Euclid0192/Halloween-themed-Sudoku",
-    demo: sudoku
-  },
-  {
-    id: 4,
-    image: portfolioGif,
-    title: "My portfolio",
-    github: "https://github.com/Euclid0192/Portfolio",
-    demo: 'http://bit.ly/portfolio-euclid'
-  },
-  {
-    id: 5,
-    image: chatGif,
-    title: "ReTiMe - A Real-time Messaging App",
-    github: "https://github.com/Euclid0192/ReTiMe",
-    demo: 'https://drive.google.com/file/d/12onKpfCDpIxvy038rHxENHKePmk5u9tv/view?usp=sharing'
-  }
-]
+
 
 const Portfolio = () => {
   return (
-    <section id='portfolio'>
-      <h2>My recent works</h2>
-
-      <div className='container portfolio__container'>
+    <Page title="My recent works" hideTitle>
+      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {
-          DATA.map(({id, image, title, github, demo}) => {
+          projects.map(({id, image, title, github, featured}) => {
             return (
-              <article className='portfolio__item'>
-                <div className='portfolio__item-image'>
-                  <img src={image} alt='project' className='portfolio__item-image'/>
+              <article key={id} className={`group/project relative flex min-w-0 flex-col rounded-2xl border bg-surface/95 p-6 backdrop-blur-md transition-colors hover:border-accent/50 hover:bg-transparent focus-within:bg-transparent motion-reduce:transition-none ${featured ? 'border-accent/50' : 'border-white/10'}`}>
+                {featured && <span className="absolute left-9 top-9 z-10 inline-flex items-center gap-1.5 rounded-full border border-accent/40 bg-background/70 px-3 py-1 text-sm text-accent backdrop-blur-md"><HiStar aria-hidden="true" className="size-4" />Featured</span>}
+                <div className="overflow-hidden rounded-xl">
+                  <img src={image} alt={`${title} preview`} loading="lazy" className={`aspect-[8/7] w-full ${image === treverseLogo ? 'bg-background/40 object-contain p-8 transition-colors group-hover/project:bg-transparent group-focus-within/project:bg-transparent motion-reduce:transition-none' : 'object-cover'}`} />
                 </div>
-                <h3>{title}</h3>
-                <div className='portfolio__item-cta'>
-                  <a href={github} className='btn btn-primary' target='_blank' rel="noopener noreferrer">Github</a>
-                  {/* <a href={demo} className='btn' target='_blank' rel="noopener noreferrer" download={id == 1}>Demo</a>             */}
+                <h2 className="my-5 text-center text-xl">{title}</h2>
+                <div className="mt-auto flex justify-center gap-4">
+                  <a href={github} className={buttonClasses} target="_blank" rel="noopener noreferrer" aria-label={`${title} on GitHub`}>Github</a>
                 </div>
               </article>              
             )
           })
         }
       </div>
-    </section>
+    </Page>
   )
 }
 

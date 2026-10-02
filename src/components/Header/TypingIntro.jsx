@@ -3,13 +3,14 @@ import { TypeAnimation } from "react-type-animation";
 
 const TypingIntro = () => {
   return (
+    <>
+    <p className="sr-only">CS major from Michigan State University. Fullstack Software Engineer.</p>
+    <p aria-hidden="true" className="hidden min-h-40 text-2xl leading-relaxed drop-shadow-lg motion-reduce:block sm:min-h-28 sm:text-3xl">Fullstack Developer</p>
     <TypeAnimation
       sequence={[
-        "Hey, I'm Nam Nguyen",
+        "CS major from Michigan State University",
         1200,
-        "CS Junior from Michigan State University",
-        1200,
-        "Fullstack Developer",
+        "Fullstack Software Engineer",
         1200,
         "Nice to meet y'all!",
         1200,
@@ -18,14 +19,11 @@ const TypingIntro = () => {
       ]}
       wrapper="span"
       speed={50}
-      style={{
-        fontSize: "2em",
-        display: "inline-block",
-        color: "#fff",
-        textShadow: "0 0 10px rgba(0, 0, 0, 0.7), 0 0 20px rgba(0, 0, 0, 0.5)",
-      }}
+      className="inline-block min-h-40 text-2xl leading-relaxed text-white drop-shadow-lg motion-reduce:hidden sm:min-h-28 sm:text-3xl"
+      aria-hidden="true"
       repeat={Infinity}
     />
+    </>
   );
 };
 
