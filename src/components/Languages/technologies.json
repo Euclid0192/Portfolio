@@ -1,0 +1,484 @@
+[
+  {
+    "name": "Python",
+    "category": "languages",
+    "icons": [
+      "/technology/python.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "TypeScript",
+    "category": "languages",
+    "icons": [
+      "/technology/typescript.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "JavaScript",
+    "category": "languages",
+    "icons": [
+      "/technology/javascript.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "C/C++",
+    "category": "languages",
+    "icons": [
+      "/technology/c.svg",
+      "/technology/cplusplus.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Golang",
+    "category": "languages",
+    "icons": [
+      "/technology/go.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "SQL",
+    "category": "languages",
+    "icons": [
+      "/technology/sql.svg"
+    ],
+    "symbol": true
+  },
+  {
+    "name": "Ruby",
+    "category": "languages",
+    "icons": [
+      "/technology/ruby.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "R",
+    "category": "languages",
+    "icons": [
+      "/technology/r.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Java",
+    "category": "languages",
+    "icons": [
+      "/technology/java.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "HTML/CSS",
+    "category": "languages",
+    "icons": [
+      "/technology/html5.svg",
+      "/technology/css.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Assembly",
+    "category": "languages",
+    "icons": [
+      "/technology/assembly.svg"
+    ],
+    "symbol": true
+  },
+  {
+    "name": "Node.js",
+    "category": "frameworks",
+    "icons": [
+      "/technology/nodedotjs.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "React",
+    "category": "frameworks",
+    "icons": [
+      "/technology/react.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Next.js",
+    "category": "frameworks",
+    "icons": [
+      "/technology/nextdotjs.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "frameworks",
+    "icons": [
+      "/technology/tailwindcss.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Express.js",
+    "category": "frameworks",
+    "icons": [
+      "/technology/express.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Ruby on Rails",
+    "category": "frameworks",
+    "icons": [
+      "/technology/rubyonrails.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "NestJS",
+    "category": "frameworks",
+    "icons": [
+      "/technology/nestjs.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Angular",
+    "category": "frameworks",
+    "icons": [
+      "/technology/angular.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "AngularJS",
+    "category": "frameworks",
+    "icons": [
+      "/technology/angularjs.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "shadcn",
+    "category": "frameworks",
+    "icons": [
+      "/technology/shadcnui.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Bootstrap",
+    "category": "frameworks",
+    "icons": [
+      "/technology/bootstrap.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "FastAPI",
+    "category": "frameworks",
+    "icons": [
+      "/technology/fastapi.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Java Quarkus",
+    "category": "frameworks",
+    "icons": [
+      "/technology/quarkus.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Magic UI",
+    "category": "frameworks",
+    "icons": [
+      "/technology/magicui.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Playwright",
+    "category": "frameworks",
+    "icons": [
+      "/technology/playwright.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Mocha",
+    "category": "frameworks",
+    "icons": [
+      "/technology/mocha.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Chai",
+    "category": "frameworks",
+    "icons": [
+      "/technology/chai.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Supertest",
+    "category": "frameworks",
+    "icons": [
+      "/technology/supertest.svg"
+    ],
+    "symbol": true
+  },
+  {
+    "name": "BullMQ",
+    "category": "frameworks",
+    "icons": [
+      "/technology/bullmq.png"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Resque",
+    "category": "frameworks",
+    "icons": [
+      "/technology/resque.png"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Codecov",
+    "category": "frameworks",
+    "icons": [
+      "/technology/codecov.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Cursor",
+    "category": "tools",
+    "icons": [
+      "/technology/cursor.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Claude Code",
+    "category": "tools",
+    "icons": [
+      "/technology/claudecode.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Docker",
+    "category": "tools",
+    "icons": [
+      "/technology/docker.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "GitHub",
+    "category": "tools",
+    "icons": [
+      "/technology/github.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "GitHub Actions",
+    "category": "tools",
+    "icons": [
+      "/technology/githubactions.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Figma",
+    "category": "tools",
+    "icons": [
+      "/technology/figma.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Sentry",
+    "category": "tools",
+    "icons": [
+      "/technology/sentry.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Jira",
+    "category": "tools",
+    "icons": [
+      "/technology/jira.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Swagger",
+    "category": "tools",
+    "icons": [
+      "/technology/swagger.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Storybook",
+    "category": "tools",
+    "icons": [
+      "/technology/storybook.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Concourse",
+    "category": "tools",
+    "icons": [
+      "/technology/concourse.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Postman",
+    "category": "tools",
+    "icons": [
+      "/technology/postman.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "ESLint",
+    "category": "tools",
+    "icons": [
+      "/technology/eslint.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "MongoDB",
+    "category": "data",
+    "icons": [
+      "/technology/mongodb.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "MySQL",
+    "category": "data",
+    "icons": [
+      "/technology/mysql.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "PostgreSQL",
+    "category": "data",
+    "icons": [
+      "/technology/postgresql.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "SQLite",
+    "category": "data",
+    "icons": [
+      "/technology/sqlite.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Firebase",
+    "category": "data",
+    "icons": [
+      "/technology/firebase.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Convex",
+    "category": "data",
+    "icons": [
+      "/technology/convex.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "AWS S3",
+    "category": "data",
+    "icons": [
+      "/technology/amazons3.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Fly.io",
+    "category": "tools",
+    "icons": [
+      "/technology/flydotio.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "LangChain",
+    "category": "ai",
+    "icons": [
+      "/technology/langchain.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "LangGraph",
+    "category": "ai",
+    "icons": [
+      "/technology/langgraph.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "Azure Document Intelligence",
+    "category": "ai",
+    "icons": [
+      "/technology/azure-document-intelligence.png"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "OpenAI API",
+    "category": "ai",
+    "icons": [
+      "/technology/openai.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "MCP",
+    "category": "ai",
+    "icons": [
+      "/technology/modelcontextprotocol.svg"
+    ],
+    "symbol": false
+  },
+  {
+    "name": "CI/CD",
+    "category": "tools",
+    "icons": [
+      "/technology/cicd.svg"
+    ],
+    "symbol": true
+  },
+  {
+    "name": "Braze API",
+    "category": "ai",
+    "icons": [
+      "/technology/braze.ico"
+    ],
+    "symbol": false
+  }
+]
